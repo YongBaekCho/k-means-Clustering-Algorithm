@@ -4,7 +4,6 @@ from calendar import isleap as is_leap_year
 from sklearn.preprocessing import MinMaxScaler
 '''
 Author : YongBaek Cho
-Date : 09/20 2018
 '''
 
 def euclidean_distance(v1, v2):
